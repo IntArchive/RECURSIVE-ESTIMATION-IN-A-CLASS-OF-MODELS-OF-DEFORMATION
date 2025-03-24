@@ -1,6 +1,6 @@
 # Ước lượng đệ quy trong lớp các mô hình biến dạng
 ---
-_Khóa luận tập trung nghiên cứu cách xấp xỉ dữ liệu tuần hoàn như dữ liệu điện tim. Các nội dung chi tiết về toán của khóa luận được trình trong file ./Main_Dissertation/Khoa_luan_tot_nghiep_DinhMinhHai.pdf_
+_Khóa luận tái sản xuất các kết quả nghiên cứu cách xấp xỉ dữ liệu tuần hoàn trong bài báo của Philippe Fraysse và cung cấp các chứng minh chi tiết cho các định lý trong bài báo. Các nội dung chi tiết về toán của khóa luận được trình bày trong file ./Main_Dissertation/Khoa_luan_tot_nghiep_DinhMinhHai.pdf_
 
 Toàn bộ khóa luận cấu trúc thành 4 chương. 
 * Chương 1 trình bày mô hình và các giả thuyết cần thiết để thực hiện quá trình phân tích thống kê.\\
